@@ -15,5 +15,5 @@ $("#quote").html(randomQuote.quote);
       $(this).removeClass();
     });
   
-    $("#share").attr("href", "https://facebook.com/intent/tweet?text=\"" );
+    $("#share").attr("href", "https://m.me/100474448401294" );
   }  
