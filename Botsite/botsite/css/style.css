@@ -3,6 +3,7 @@ body {
     color: white;
     width: 100%;
     padding-top: 50px;
+    margin-top: 20px;
     font-size: 18px;
     font-family: 'Roboto Slab', serif;
   }
@@ -43,7 +44,7 @@ body {
     padding: 30px;
     background-color: whitesmoke;
     margin-top: 40px;
-    margin-left: 100px;
+    margin-left: 80px;
   }
   
   .btn:hover, .btn:active, .btn:focus {
