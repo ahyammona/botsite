@@ -44,7 +44,7 @@ body {
     padding: 30px;
     background-color: whitesmoke;
     margin-top: 40px;
-    margin-left: 80px;
+    margin-left: 75px;
   }
   
   .btn:hover, .btn:active, .btn:focus {
@@ -84,7 +84,7 @@ body {
       padding: 30px;
       background-color: whitesmoke;
       margin-top: 40px;
-      margin-left: 70px;
+      margin-left: 65px;
     }
       ul {
     list-style-type: none;
@@ -113,7 +113,7 @@ body {
       padding: 30px;
       background-color: whitesmoke;
       margin-top: 40px;
-      margin-left: 80px;
+      margin-left: 75px;
     }
   }
 
@@ -134,7 +134,7 @@ body {
       ul {
     list-style-type: none;
     padding: 0;
-    margin: 100px 0 0 100px;
+    margin: 200px 0 0 0;      
     float: right;
     white-space: nowrap;
     overflow: hidden;
@@ -163,7 +163,7 @@ body {
 ul {
     list-style-type: none;
     padding: 0;
-    margin: 100px 0 0 100px;
+    margin: 200px 0 0 0;
     float: right;
     white-space: nowrap;
     overflow: hidden;
@@ -191,7 +191,7 @@ ul {
   ul {
     list-style-type: none;
     padding: 0;
-    margin: 200px 0 0 200px;
+    margin: 200px 0 0 0;
     float: right;
     white-space: nowrap;
     overflow: hidden;
