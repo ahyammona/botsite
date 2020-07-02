@@ -56,7 +56,7 @@ body {
   ul {
     list-style-type: none;
     padding: 0;
-    margin: 100px 0 0 0;
+    margin: 100px 0 0 100px;
     float: right;
     white-space: nowrap;
     overflow: hidden;
@@ -86,6 +86,19 @@ body {
       margin-top: 40px;
       margin-left: 70px;
     }
+      ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 100px 0 0 100px;
+    float: right;
+    white-space: nowrap;
+    overflow: hidden;
+  }
+  li {
+    display: inline-block;
+    margin: 0 0 0 1px;
+  }
+  
   }
 
   @media only screen and (min-width:340px){
@@ -118,6 +131,19 @@ body {
       margin-top: 40px;
       margin-left: 125px;
     }
+      ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 100px 0 0 100px;
+    float: right;
+    white-space: nowrap;
+    overflow: hidden;
+  }
+  li {
+    display: inline-block;
+    margin: 0 0 0 1px;
+  }
+  
   }
 
   @media only screen and (min-width: 768px){
@@ -134,7 +160,19 @@ body {
       margin-top: 40px;
       margin-left: 240px;
     }
-
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 100px 0 0 100px;
+    float: right;
+    white-space: nowrap;
+    overflow: hidden;
+  }
+  li {
+    display: inline-block;
+    margin: 0 0 0 1px;
+  }
+  
 
   }
 @media only screen and (min-width: 1000px){
@@ -153,7 +191,7 @@ body {
   ul {
     list-style-type: none;
     padding: 0;
-    margin: 200px 0 0 0;
+    margin: 200px 0 0 200px;
     float: right;
     white-space: nowrap;
     overflow: hidden;
