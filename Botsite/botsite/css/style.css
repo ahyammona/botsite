@@ -44,7 +44,7 @@ body {
     padding: 30px;
     background-color: whitesmoke;
     margin-top: 40px;
-    margin-left: 90px;
+    margin-left: 80px;
   }
   
   .btn:hover, .btn:active, .btn:focus {
@@ -100,7 +100,7 @@ body {
       padding: 30px;
       background-color: whitesmoke;
       margin-top: 40px;
-      margin-left: 90px;
+      margin-left: 80px;
     }
   }
 
@@ -116,7 +116,7 @@ body {
       padding: 30px;
       background-color: whitesmoke;
       margin-top: 40px;
-      margin-left: 130px;
+      margin-left: 125px;
     }
   }
 
@@ -132,7 +132,7 @@ body {
       padding: 30px;
       background-color: whitesmoke;
       margin-top: 40px;
-      margin-left: 250px;
+      margin-left: 240px;
     }
 
 
@@ -148,7 +148,7 @@ body {
     padding: 30px;
     background-color: whitesmoke;
     margin-top: 40px;
-    margin-left: 600px;
+    margin-left: 550px;
   }
   ul {
     list-style-type: none;
